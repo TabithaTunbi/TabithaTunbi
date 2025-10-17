@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @TabithaTunbi
+- 👋 Hi, I’m Oluwatunbi Bukola
 - 👀 I’m interested in tech ideas
 
-- 🌱 I’m currently learning animation, 
-video editing
-- 💞️ I’m looking to collaborate on how to be perfect
+- 🌱 I’m a Data Analyst
+- 💞️ I’m looking for opportunities for my career growth.
 - 📫 How to reach me on 2049516246 or oluwatunbiayomide@yahoo.com
 
 <!---
